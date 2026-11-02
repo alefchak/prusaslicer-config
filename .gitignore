@@ -3,6 +3,8 @@ PrusaSlicer.ini
 PrusaSlicer.ini.bak
 PrusaSlicerGcodeViewer.ini
 PrusaSlicerGcodeViewer.ini.bak
+ArchiveRepositoryManifest.json
+workflows.json
 cache/
 physical_printer/
 snapshots/
